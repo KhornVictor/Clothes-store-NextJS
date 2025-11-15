@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "admin",
+      "isActive": true,
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "createdAt": "2023-01-15T08:30:00Z",
+      "lastLogin": "2025-11-14T14:22:10Z",
+      "profile": {
+        "bio": "Full-stack developer passionate about React and Node.js",
+        "location": "San Francisco, CA",
+        "website": "https://johndoe.dev",
+        "phone": "+1-555-123-4567"
+      },
+      "preferences": {
+        "theme": "dark",
+        "notifications": true,
+        "language": "en"
+      }
+    },
+    {
+      "id": 2,
+      "username": "janedoe",
+      "email": "jane.doe@example.com",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "role": "user",
+      "isActive": true,
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "createdAt": "2023-02-20T10:15:00Z",
+      "lastLogin": "2025-11-15T09:45:30Z",
+      "profile": {
+        "bio": "UI/UX Designer creating beautiful digital experiences",
+        "location": "New York, NY",
+        "website": "https://janedoe.design",
+        "phone": "+1-555-987-6543"
+      },
+      "preferences": {
+        "theme": "light",
+        "notifications": false,
+        "language": "en"
+      }
+    },
+    {
+      "id": 3,
+      "username": "mikebrown",
+      "email": "mike.brown@example.com",
+      "firstName": "Mike",
+      "lastName": "Brown",
+      "role": "user",
+      "isActive": false,
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "createdAt": "2023-03-10T14:20:00Z",
+      "lastLogin": "2025-10-01T11:30:00Z",
+      "profile": {
+        "bio": "Product manager focused on user-centered solutions",
+        "location": "Austin, TX",
+        "website": "",
+        "phone": "+1-555-456-7890"
+      },
+      "preferences": {
+        "theme": "auto",
+        "notifications": true,
+        "language": "en"
+      }
+    },
+    {
+      "id": 4,
+      "username": "sarahwilson",
+      "email": "sarah.wilson@example.com",
+      "firstName": "Sarah",
+      "lastName": "Wilson",
+      "role": "moderator",
+      "isActive": true,
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "createdAt": "2023-05-05T09:00:00Z",
+      "lastLogin": "2025-11-13T16:20:45Z",
+      "profile": {
+        "bio": "Community manager and content creator",
+        "location": "Seattle, WA",
+        "website": "https://sarahwilson.blog",
+        "phone": "+1-555-234-5678"
+      },
+      "preferences": {
+        "theme": "light",
+        "notifications": true,
+        "language": "es"
+      }
+    },
+    {
+      "id": 5,
+      "username": "alexchen",
+      "email": "alex.chen@example.com",
+      "firstName": "Alex",
+      "lastName": "Chen",
+      "role": "user",
+      "isActive": true,
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "createdAt": "2024-01-12T11:45:00Z",
+      "lastLogin": "2025-11-15T08:10:20Z",
+      "profile": {
+        "bio": "DevOps engineer specializing in cloud infrastructure",
+        "location": "Toronto, Canada",
+        "website": "https://alexchen.tech",
+        "phone": "+1-555-876-5432"
+      },
+      "preferences": {
+        "theme": "dark",
+        "notifications": false,
+        "language": "en"
+      }
+    }
+  ]
+}
